@@ -2,7 +2,7 @@ This project is an immersive and interactive online platform that brings the joy
 
 **Features**:
 
-SEO Tags: Recently added SEO tags to enhance website visibility and improve search engine performance.
+SEO Tags: Recently added SEO and ARIA tags to enhance website visibility and improve search engine performance.
 
 AI-Generated Images:
 
@@ -23,6 +23,5 @@ Technologies Used:
     jQuery: Implementing smooth scrolling for seamless user experience.
 
     Bing AI: Generating visually stunning images for our donut collection.
-    
-    OpenAI's Chat: Crafting engaging and descriptive text content for the donut descriptions.
 
+    OpenAI's Chat: Crafting engaging and descriptive text content for the donut descriptions.
