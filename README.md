@@ -1,6 +1,6 @@
 This project is an immersive and interactive online platform that brings the joy of scrumptious donuts to your fingertips! Our creative donut shop combines the artistry of AI-generated images from Bing AI with engaging text crafted by OpenAI's chat capabilities. With the added functionality of jQuery plugins for smooth scrolling, navigating through our delightful offerings is as seamless as biting into a freshly baked donut.
 
-Features:
+**Features**:
 
 SEO Tags: Recently added SEO tags to enhance website visibility and improve search engine performance.
 
